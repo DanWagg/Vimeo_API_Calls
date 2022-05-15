@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API_Anyview.js",
+  "scripts": {
+    "test": "vimeo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vimeo": "^2.1.1"
+  }
+}
